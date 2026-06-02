@@ -46,16 +46,16 @@
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PraDika24&theme=tokyo-night&bg_color=0D1117&color=00D4FF&line=00D4FF&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph" width="100%" />
+   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=PraDika24&theme=tokyonight" height="180"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PraDika24&theme=tokyonight" height="180" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PraDika24&theme=tokyo-night" height="195" alt="Profile Details"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=PraDika24&theme=tokyo-night" height="195" alt="Top Languages"/>
+  <img src="https://streak-stats.demolab.com?user=PraDika24&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=PraDika24&theme=tokyo-night&hide_border=true&border_radius=12&date_format=M%20j%2C%20Y" alt="GitHub Streak" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PraDika24&theme=tokyo-night&hide_border=true" width="100%" />
 </p>
 
 ---
